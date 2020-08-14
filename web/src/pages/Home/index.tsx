@@ -19,7 +19,7 @@ const Home = () => {
 
                     <Link to="/create-point">
                         <span><FiLogIn /></span>
-                        <strong>Cadastre um ponto de colera</strong>
+                        <strong>Cadastre um ponto de coleta</strong>
                     </Link>
                 </main>
             </div>
